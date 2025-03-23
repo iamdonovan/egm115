@@ -1,0 +1,11 @@
+name: egm115_seaice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - pandas
+  - seaborn
+  - openpyxl
+  - pingouin
